@@ -6,6 +6,9 @@ CLICK ON THE ONE THAT SAYS LATEST NEXT TO IT OTHERWISE IT WILL NOT WORK
 
 Then click on the one that says somthing other than "Source Code (zip)" or "Source Code (tar.gz)"
 
+
+
+
 put mods in first then put the qusmetics in after you sync to beatsaber AND BOOT IT UP AND CLOSE IT
 
 I spent 4 minutes making this (;
