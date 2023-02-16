@@ -15,3 +15,6 @@ put .qmod in first then put the Qusmetics files ex.(.Whacker, .Cyoob and .box) i
 
 I spent 4 minutes making this (;
 
+FIND OTHER MODS HERE: https://computerelite.github.io/tools/Beat_Saber/questmods.html
+
+BEAT SABER MODDING GROUP: https://discord.gg/beatsabermods
