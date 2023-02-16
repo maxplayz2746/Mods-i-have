@@ -11,7 +11,7 @@ Then click on the one that says somthing other than "Source Code (zip)" or "Sour
 
 Once you download it MAKE SURE TO EXTRACT IT!
 
-put mods in first then put the Qusmetics files ex.(.Whacker, .Cyoob and .box) in after you sync to beatsaber AND BOOT IT UP AND CLOSE IT
+put .qmod in first then put the Qusmetics files ex.(.Whacker, .Cyoob and .box) in after you sync to beatsaber AND BOOT IT UP AND CLOSE IT
 
 I spent 4 minutes making this (;
 
